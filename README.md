@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm B NIZAM</h1>
 <h3 align="center">AWS & Devops Engineer </h3>
 
-- 👨‍💻 All of my projects are available at [github id "Nizamuddin4832"](github id "Nizamuddin4832")
+- 👨‍💻 All of my projects are available at [github id "Nizamuddin4832"]
 
 - 📫 How to reach me **nizam.dev.25@gmail.com**
 
