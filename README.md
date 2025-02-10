@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋, I'm B NIZAM</h1>
 <h3 align="center">AWS & Devops Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizamuddin4832" alt="nizamuddin4832" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [github id "Nizamuddin4832"]
 
 - 📫 How to reach me **nizam.dev.25@gmail.com**
 
 - My resume [https://drive.google.com/file/d/16n8m869Lv6_HrE8PwJAJ_vor7v7qrCHS/view?usp=drive_link](https://drive.google.com/file/d/16n8m869Lv6_HrE8PwJAJ_vor7v7qrCHS/view?usp=drive_link)
 
-<h3 align="left">Contact with me : 8639005563</h3>
+<h3 align="left">Contact with me: 8639005563 </h3>
 <p align="left">
 </p>
 
