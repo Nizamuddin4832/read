@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm B NIZAM</h1>
-<h3 align="center">AWS & Devops</h3>
+<h3 align="center">AWS & Devops Engineer </h3>
 
 - 👨‍💻 All of my projects are available at [github id "Nizamuddin4832"](github id "Nizamuddin4832")
 
